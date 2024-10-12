@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoodTracker</string>
+    <string name="current_mood">Current Mood: %1$s</string>
+    <string name="mood_saved">Mood Saved: %1$s</string>
+</resources>
